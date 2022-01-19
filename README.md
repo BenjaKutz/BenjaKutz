@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjaKutz
 - 👀 I’m interested in science fiction
 - 🌱 I’m currently learning how to train NPL machine learning models in python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Forecasting ML models 
 - 📫 How to reach me benjamin@clientmetrica.com
 
 <!---
